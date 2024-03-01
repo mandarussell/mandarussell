@@ -10,6 +10,10 @@
     width="300"
   />
 </div>
+<div id="badges">
+  <a href="https://www.linkedin.com/in/amanda-russell-07b28274/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a></div>
 <div id="counter" align="center">
   <img src="https://komarev.com/ghpvc/?username=mandarussell&style=flat-square&color=blueviolet" alt=""/>
 </div>
