@@ -1,11 +1,13 @@
-### Hi there 👋
+
 
 <div id="header" align="center">
   <img 
     src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMm5vMWlwbm9hbXFlZGhncTcwN3BzNWplY2o3d2JwYzAyMGYwd2gxYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/hpXdHPfFI5wTABdDx9/giphy.gif" 
-    width="100"
+    width="300"
   />
 </div>
+
+### Hi there 👋
 
 <!--
 **mandarussell/mandarussell** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
