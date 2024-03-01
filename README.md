@@ -3,8 +3,8 @@
     src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMm5vMWlwbm9hbXFlZGhncTcwN3BzNWplY2o3d2JwYzAyMGYwd2gxYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/hpXdHPfFI5wTABdDx9/giphy.gif" 
     width="300"
   />
+  <img src="https://komarev.com/ghpvc/?username=mandarussell&style=flat-square&color=blue" alt=""/>
 </div>
-<img src="https://komarev.com/ghpvc/?username=mandarussell&style=flat-square&color=blue" alt=""/>
 <h1>
   Hi there
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
