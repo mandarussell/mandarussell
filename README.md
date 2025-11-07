@@ -27,7 +27,7 @@ Software Engineer in Scotland.
 - 🔭 I’m currently working on up-skilling from COBOL.
 - 🌱 I’m currently learning [Java](https://exercism.org/profiles/mandarussell).
 - 😄 Pronouns: She/Her
-- ⚡ Fun fact: I was an extra in a Cadbury World advert when I was 6 years old.
+- ⚡ Fun fact: As a hobby I work as a Supporting Artist in TV and film.
 
 ---
 
