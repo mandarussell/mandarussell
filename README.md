@@ -1,8 +1,5 @@
 <div id="header" align="center">
-  <h1>
-    Hi there
-    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-  </h1>
+  <h1>Hi there!</h1>
 </div>
 <div id="gif" align="center">
   <img 
@@ -14,9 +11,6 @@
   <a href="https://www.linkedin.com/in/amanda-russell-07b28274/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a></div>
-<div id="counter" align="center">
-  <img src="https://komarev.com/ghpvc/?username=mandarussell&style=flat-square&color=blueviolet" alt=""/>
-</div>
 
 ---
 
@@ -49,3 +43,7 @@ Software Engineer in Scotland.
 ### :fire: My Stats :
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mandarussell&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
+<div id="counter" align="center">
+  <img src="https://komarev.com/ghpvc/?username=mandarussell&style=flat-square&color=blueviolet" alt=""/>
+</div>
