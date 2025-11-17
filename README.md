@@ -25,7 +25,7 @@
 Software Engineer in Scotland.
 
 - 🔭 I’m currently working on up-skilling from COBOL.
-- 🌱 I’m currently learning [Java](https://exercism.org/profiles/mandarussell).
+- 🌱 I’m currently learning [Java](https://exercism.org/profiles/mandarussell) and [Javascript](https://github.com/mandarussell/solar-battery-display).
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: As a hobby I work as a Supporting Artist in TV and film.
 
